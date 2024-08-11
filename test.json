@@ -1,0 +1,12 @@
+{
+    "staff_descriptions": [
+        "sunday doctor mark with phone number <tel>083747334111</tel> is on duty ambulance x101 is to be used for the day and driver jimoh with <tel>09067648441</tel> will drive",
+        "monday doctor peter with phone number <tel>083747334222</tel> is on duty ambulance x102 is to be used for the day and driver ahmed with <tel>09067648442</tel> will drive",
+        "tuesday doctor tune with phone number <tel>083747334333</tel> is on duty ambulance x103 is to be used for the day and driver bala with <tel>09067648443</tel> will drive",
+        "wednesday doctor john with <tel>083747334444</tel> is on duty ambulance x104 is to be used for the day and driver samuel with <tel>09067648444</tel> will drive",
+        "thursday doctor mary with <tel>083747334555</tel> is on duty ambulance x105 is to be used for the day and driver daniel with <tel>09067648445</tel> will drive",
+        "friday doctor jane with <tel>083747334666</tel> is on duty ambulance x106 is to be used for the day and driver david with <tel>09067648446</tel> will drive",
+        "saturday doctor luke with <tel>083747334777</tel> is on duty ambulance x107 is to be used for the day and driver paul with <tel>09067648447</tel> will drive"
+    ],
+    "email":"davidvictor297@gmail.com"
+}

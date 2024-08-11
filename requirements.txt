@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain==0.2.5
+langchain-community==0.2.5
+chromadb
+faiss-cpu
+langchain_google_genai
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+pyaudio==0.2.14
+geopy 
+folium 
+streamlit_folium
+streamlit_geolocation
