@@ -280,7 +280,7 @@ def main():
             # Send the email
             subject = "Ambulance Request"
             body = f"Request Location: https://www.google.com/maps/?q={latitude},{longitude}\n\nDetails:\n{duty_response}"
-            to_email = "davidvictor297@gmail.com"  # Replace with the actual email address
+            to_email = "mustaphay456@gmail.com"  # Replace with the actual email address
 
             if send_email(subject, body, to_email):
                 st.success("Ambulance request sent successfully!")
