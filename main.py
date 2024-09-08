@@ -21,7 +21,6 @@ from email.mime.text import MIMEText
 
 from streamlit_geolocation import streamlit_geolocation
 
-# Assuming jsondat is the filename (with .json extension)
 filename = "test.json"
 
 # Open the file and load the data
